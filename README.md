@@ -1,4 +1,4 @@
-# AI Web Scraper
+# Smart Scraper
 
 A small project that scrapes website content, cleans it, and uses AI models to parse and extract structured data. The repo contains a Python FastAPI backend and a React + Vite frontend.
 
